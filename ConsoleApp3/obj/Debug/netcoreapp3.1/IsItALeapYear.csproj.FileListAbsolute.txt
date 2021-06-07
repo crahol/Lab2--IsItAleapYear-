@@ -1,0 +1,25 @@
+C:\Users\rahol\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.exe
+C:\Users\rahol\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.deps.json
+C:\Users\rahol\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.json
+C:\Users\rahol\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.dev.json
+C:\Users\rahol\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\rahol\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\rahol\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfoInputs.cache
+C:\Users\rahol\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfo.cs
+C:\Users\rahol\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.csproj.CoreCompileInputs.cache
+C:\Users\rahol\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\rahol\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\rahol\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.genruntimeconfig.cache
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.exe
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.deps.json
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.json
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.dev.json
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\bin\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.csprojAssemblyReference.cache
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfoInputs.cache
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfo.cs
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.csproj.CoreCompileInputs.cache
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\rahol\Desktop\Lab 2 - IsItALeapYear\ConsoleApp3\obj\Debug\netcoreapp3.1\IsItALeapYear.genruntimeconfig.cache
